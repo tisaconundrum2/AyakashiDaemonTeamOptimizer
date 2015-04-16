@@ -12,9 +12,11 @@ __Author__ = tisaconundrum
 * you will want to add all your daemons into the app.
 
 daemons.insertDaemon("Poisoned Sake", 3843, 3843, 29);
+
 daemons.insertDaemon("Name of Daemon", ATK, DEF, SPIRIT);
 
 daemons.getOptimizedAtk(60);
+
 daemons.getOptimizedAtk(Your Spirit Points Here);
 
 * include your atk and def points
